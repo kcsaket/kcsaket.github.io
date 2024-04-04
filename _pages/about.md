@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am Saket, an Assistant Professor at the Koita Centre for Digital Health.
-This is a test run.
+I am Saket, an Assistant Professor at the [Koita Centre for Digital Health](https://www.kcdh.iitb.ac.in/).
+This is a test run. 
 
